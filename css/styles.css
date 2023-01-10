@@ -1,0 +1,22 @@
+#map {
+    width: 10000px;
+    height:700px;
+}
+.top-nav {
+    background-color:#013f78;
+    color:white;
+    height: 70px;
+    
+}
+.container .jumbotron p {
+    margin-top: 30px;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content span {
+    border-style: solid; 
+    padding:2px; 
+    margin-right: 5px;
+}
+.leaflet-popup-content-wrapper .leaflet-popup-content h4 {
+    font-weight: bold;
+    padding-bottom: 10px;
+}
